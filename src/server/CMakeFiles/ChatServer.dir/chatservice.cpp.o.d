@@ -313,5 +313,8 @@ src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o: \
  /usr/include/boost/type_traits/is_same.hpp \
  /usr/include/muduo/net/EventLoop.h /usr/include/c++/13/atomic \
  /usr/include/muduo/base/Mutex.h /usr/include/muduo/base/CurrentThread.h \
- /usr/include/muduo/net/TimerId.h /home/ubuntu/chat/include/public.hpp \
- /usr/include/muduo/base/Logging.h /usr/include/muduo/base/LogStream.h
+ /usr/include/muduo/net/TimerId.h \
+ /home/ubuntu/chat/include/server/usermodel.hpp \
+ /home/ubuntu/chat/include/server/user.hpp \
+ /home/ubuntu/chat/include/public.hpp /usr/include/muduo/base/Logging.h \
+ /usr/include/muduo/base/LogStream.h

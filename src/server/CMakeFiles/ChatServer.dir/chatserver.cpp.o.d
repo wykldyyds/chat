@@ -316,4 +316,6 @@ src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o: \
  /usr/include/c++/13/bits/basic_ios.tcc /usr/include/c++/13/ostream \
  /usr/include/c++/13/bits/ostream.tcc \
  /usr/include/c++/13/bits/istream.tcc \
- /home/ubuntu/chat/include/server/chatservice.hpp
+ /home/ubuntu/chat/include/server/chatservice.hpp \
+ /home/ubuntu/chat/include/server/usermodel.hpp \
+ /home/ubuntu/chat/include/server/user.hpp
