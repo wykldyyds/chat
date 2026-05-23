@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/ubuntu/chat/include -I/home/ubuntu/chat/include/server -I/home/ubuntu/chat/thirdparty
+CXX_INCLUDES = -I/home/ubuntu/chat/include -I/home/ubuntu/chat/include/server -I/home/ubuntu/chat/include/server/db -I/home/ubuntu/chat/thirdparty
 
 CXX_FLAGS =  -g -std=gnu++17
 
