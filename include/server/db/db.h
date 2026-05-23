@@ -20,6 +20,9 @@ public:
     // 查询操作
     MYSQL_RES *query(string sql);
 
+    // 获取连接
+    MYSQL *getConnection();
+
 private:
     MYSQL *_conn;
 };
